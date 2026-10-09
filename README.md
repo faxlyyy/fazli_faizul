@@ -2,9 +2,7 @@ NAMA : FAZLI FAIZUL ANWAR
 NPM : 2471020087
 KELAS : 5_C
 
-# Python Dasar
 
-Kumpulan kode latihan dari materi **Python Dasar** (11 bab, teori + praktik).
 
 ## Struktur
 
@@ -22,24 +20,4 @@ Kumpulan kode latihan dari materi **Python Dasar** (11 bab, teori + praktik).
 | `bab_10_module_package` | import, module sendiri, pip |
 | `bab_11_pengolahan_data` | CSV, filter, rekap, pandas |
 
-## Cara menjalankan
 
-```bash
-python bab_01_pengenalan/hello.py
-```
-
-Untuk bab 10 (module sendiri), jalankan dari dalam folder `proyek`:
-
-```bash
-cd bab_10_module_package/proyek
-python main.py
-```
-
-Untuk `pakai_pandas.py`: `pip install -r requirements.txt` dulu.
-
-## Catatan
-
-- Butuh Python 3.10+ (karena `match-case`).
-- `tuple.py` sengaja berakhir dengan `TypeError` (itu bagian dari contoh).
-- `string.py` dan `operator.py` di slide diganti nama jadi `string_demo.py` dan
-  `operator_demo.py` agar tidak bentrok dengan module bawaan Python.
