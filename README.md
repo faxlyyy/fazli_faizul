@@ -1,3 +1,7 @@
+NAMA : FAZLI FAIZUL ANWAR
+NPM : 2471020087
+KELAS : 5_C
+
 # Python Dasar
 
 Kumpulan kode latihan dari materi **Python Dasar** (11 bab, teori + praktik).
